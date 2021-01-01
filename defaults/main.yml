@@ -1,5 +1,5 @@
 ---
-icecast_config_file: /etc/icecast.xml
+icecast_config_file: /etc/icecast2/icecast.xml
 icecast_location: Earth
 icecast_admin_email: icemaster@localhost
 icecast_source_password: 
@@ -8,7 +8,7 @@ icecast_relay_password:
 icecast_admin_user: icecast-admin
 icecast_admin_password: 
 icecast_hostname: example.com
-icecast_user: icecast
+icecast_user: icecast2
 icecast_group: icecast
 
 icecast_accesslog: access.log
