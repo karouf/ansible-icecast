@@ -1,7 +1,7 @@
 ---
 - name: Install Icecast
   package:
-    name: icecast
+    name: icecast2
     state: present
 
 - name: Install Icecast configuration file
