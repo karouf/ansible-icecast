@@ -16,5 +16,5 @@
 
 - name: Enable Icecast service
   service:
-    name: icecast
+    name: icecast2
     enabled: yes
